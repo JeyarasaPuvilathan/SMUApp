@@ -1,0 +1,15 @@
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\bin\Debug\net6.0\SmuInterviewApp.exe
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\bin\Debug\net6.0\SmuInterviewApp.deps.json
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\bin\Debug\net6.0\SmuInterviewApp.runtimeconfig.json
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\bin\Debug\net6.0\SmuInterviewApp.dll
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\bin\Debug\net6.0\SmuInterviewApp.pdb
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.csproj.AssemblyReference.cache
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.AssemblyInfoInputs.cache
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.AssemblyInfo.cs
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.csproj.CoreCompileInputs.cache
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.dll
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\refint\SmuInterviewApp.dll
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.pdb
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\SmuInterviewApp.genruntimeconfig.cache
+C:\Users\kanus\source\repos\SmuInterviewApp\SmuInterviewApp\obj\Debug\net6.0\ref\SmuInterviewApp.dll

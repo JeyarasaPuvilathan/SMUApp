@@ -1,0 +1,40 @@
+﻿Part C OF Question 1
+-------------------------
+If ListA and ListB contain 100 million elements each, how will you rewrite your three functions to make it as fast as possible?
+
+Answer:-
+---------------------
+we can rewrite the three functions to make them as fast as possible using parallel processing.
+We can use the Parallel class from the System.Threading.Tasks namespace to process the lists in parallel, splitting the work across multiple threads. 
+
+
+QUSTION 2
+-----------------------------
+
+
+Answer:-
+---------------------
+CREATE PROCEDURE GetProgrammeSummary
+AS
+BEGIN
+  SELECT
+    p.ProgrammeID,
+    p.ProgrammeName,
+    COUNT(*) AS NumStudents,
+    SUM(CASE WHEN s.Gender = 'M' THEN 1 ELSE 0 END) AS NumMaleStudents,
+    SUM(CASE WHEN s.Gender = 'F' THEN 1 ELSE 0 END) AS NumFemaleStudents,
+    SUM(CASE WHEN s.MobilePhone IS NOT NULL THEN 1 ELSE 0 END) AS NumStudentsWithMobilePhone
+  FROM
+    StudentProgramme p
+    JOIN StudentProgramme sp ON p.ProgrammeID = sp.ProgrammeID
+    JOIN Students s ON sp.StudentID = s.StudentID
+  GROUP BY
+    p.ProgrammeID,
+    p.ProgrammeName;
+END
+
+
+
+
+
+
